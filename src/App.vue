@@ -5,6 +5,8 @@
       color="primary"
       dark
     >
+	<v-app-bar-nav-icon/>
+	<v-toolbar-title>Page title</v-toolbar-title>
       <div class="d-flex align-center">
         <v-img
           alt="Vuetify Logo"
